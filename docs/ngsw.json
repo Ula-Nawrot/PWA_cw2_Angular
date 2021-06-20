@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624182973611,
+  "timestamp": 1624185759760,
   "index": "https://Ula-Nawrot.github.io/PWA_cw2_Angular/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "https://Ula-Nawrot.github.io/PWA_cw2_Angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://Ula-Nawrot.github.io/PWA_cw2_Angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://Ula-Nawrot.github.io/PWA_cw2_Angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://Ula-Nawrot.github.io/PWA_cw2_Angular/index.html": "640ed0038df2abfdc8d789b08dd4898800fb8dfd",
+    "https://Ula-Nawrot.github.io/PWA_cw2_Angular/index.html": "e670428e17214cbad4dade3c99549dbd32a3e3e0",
     "https://Ula-Nawrot.github.io/PWA_cw2_Angular/main.da5efa542674891f42e2.js": "00c5e8ab578ffd3e94a757893d25e357619f071a",
     "https://Ula-Nawrot.github.io/PWA_cw2_Angular/manifest.webmanifest": "511eaa80c88d159964f80c4faf17d344892dd989",
     "https://Ula-Nawrot.github.io/PWA_cw2_Angular/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
